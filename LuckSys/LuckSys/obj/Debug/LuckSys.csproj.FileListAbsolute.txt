@@ -1,0 +1,9 @@
+d:\documents\visual studio 2012\Projects\LuckSys\LuckSys\bin\Debug\LuckSys.exe.config
+d:\documents\visual studio 2012\Projects\LuckSys\LuckSys\bin\Debug\LuckSys.exe
+d:\documents\visual studio 2012\Projects\LuckSys\LuckSys\bin\Debug\LuckSys.pdb
+d:\documents\visual studio 2012\Projects\LuckSys\LuckSys\obj\Debug\LuckSys.Properties.Resources.resources
+d:\documents\visual studio 2012\Projects\LuckSys\LuckSys\obj\Debug\LuckSys.csproj.GenerateResource.Cache
+d:\documents\visual studio 2012\Projects\LuckSys\LuckSys\obj\Debug\LuckSys.exe
+d:\documents\visual studio 2012\Projects\LuckSys\LuckSys\obj\Debug\LuckSys.pdb
+d:\documents\visual studio 2012\Projects\LuckSys\LuckSys\obj\Debug\LuckSys._2.resources
+d:\documents\visual studio 2012\Projects\LuckSys\LuckSys\obj\Debug\LuckSys.setting.resources

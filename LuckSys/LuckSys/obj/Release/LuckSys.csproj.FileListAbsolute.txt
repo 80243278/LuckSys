@@ -1,0 +1,85 @@
+d:\documents\visual studio 2012\Projects\LuckSys\LuckSys\bin\Release\LuckSys.exe.config
+d:\documents\visual studio 2012\Projects\LuckSys\LuckSys\bin\Release\LuckSys.exe
+d:\documents\visual studio 2012\Projects\LuckSys\LuckSys\bin\Release\LuckSys.pdb
+d:\documents\visual studio 2012\Projects\LuckSys\LuckSys\obj\Release\LuckSys.Properties.Resources.resources
+d:\documents\visual studio 2012\Projects\LuckSys\LuckSys\obj\Release\LuckSys.csproj.GenerateResource.Cache
+d:\documents\visual studio 2012\Projects\LuckSys\LuckSys\obj\Release\LuckSys.exe
+d:\documents\visual studio 2012\Projects\LuckSys\LuckSys\obj\Release\LuckSys.pdb
+d:\documents\visual studio 2012\Projects\LuckSys\LuckSys\obj\Release\LuckSys.setting.resources
+D:\Documents\Visual Studio 2012\Projects\LuckSys\LuckSys\obj\Release\LuckSys.main.resources
+D:\Documents\Visual Studio 2012\Projects\LuckSys\LuckSys\obj\Release\LuckSys.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\LuckSys\LuckSys\bin\Release\LuckSys.exe.config
+C:\Users\Administrator\Desktop\LuckSys\LuckSys\obj\Release\LuckSys.exe
+C:\Users\Administrator\Desktop\LuckSys\LuckSys\obj\Release\LuckSys.pdb
+C:\Users\Administrator\Desktop\LuckSys\LuckSys\bin\Release\LuckSys.exe
+C:\Users\Administrator\Desktop\LuckSys\LuckSys\bin\Release\LuckSys.pdb
+C:\Users\Administrator\Desktop\LuckSys\LuckSys\obj\Release\LuckSys.main.resources
+C:\Users\Administrator\Desktop\LuckSys\LuckSys\obj\Release\LuckSys.Properties.Resources.resources
+C:\Users\Administrator\Desktop\LuckSys\LuckSys\obj\Release\LuckSys.setting.resources
+C:\Users\Administrator\Desktop\LuckSys\LuckSys\obj\Release\LuckSys.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\LuckSys\LuckSys\obj\Release\LuckSys.info.resources
+C:\Users\Administrator\Desktop\LuckSys\LuckSys\bin\Release\ClosedXML.dll
+C:\Users\Administrator\Desktop\LuckSys\LuckSys\bin\Release\DocumentFormat.OpenXml.dll
+C:\Users\Administrator\Desktop\LuckSys\LuckSys\obj\Release\LuckSys.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\新建文件夹\LuckSys\LuckSys\bin\Release\LuckSys.exe.config
+C:\Users\Administrator\Desktop\新建文件夹\LuckSys\LuckSys\bin\Release\LuckSys.exe
+C:\Users\Administrator\Desktop\新建文件夹\LuckSys\LuckSys\bin\Release\LuckSys.pdb
+C:\Users\Administrator\Desktop\新建文件夹\LuckSys\LuckSys\bin\Release\ClosedXML.dll
+C:\Users\Administrator\Desktop\新建文件夹\LuckSys\LuckSys\bin\Release\DocumentFormat.OpenXml.dll
+C:\Users\Administrator\Desktop\新建文件夹\LuckSys\LuckSys\obj\Release\LuckSys.frmPrize.resources
+C:\Users\Administrator\Desktop\新建文件夹\LuckSys\LuckSys\obj\Release\LuckSys.Main.resources
+C:\Users\Administrator\Desktop\新建文件夹\LuckSys\LuckSys\obj\Release\LuckSys.info.resources
+C:\Users\Administrator\Desktop\新建文件夹\LuckSys\LuckSys\obj\Release\LuckSys.Properties.Resources.resources
+C:\Users\Administrator\Desktop\新建文件夹\LuckSys\LuckSys\obj\Release\LuckSys.setting.resources
+C:\Users\Administrator\Desktop\新建文件夹\LuckSys\LuckSys\obj\Release\LuckSys.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\新建文件夹\LuckSys\LuckSys\obj\Release\LuckSys.exe
+C:\Users\Administrator\Desktop\新建文件夹\LuckSys\LuckSys\obj\Release\LuckSys.pdb
+C:\Users\Administrator\Desktop\LuckCommit\LuckSys\LuckSys\bin\Release\LuckSys.exe.config
+C:\Users\Administrator\Desktop\LuckCommit\LuckSys\LuckSys\bin\Release\LuckSys.exe
+C:\Users\Administrator\Desktop\LuckCommit\LuckSys\LuckSys\bin\Release\LuckSys.pdb
+C:\Users\Administrator\Desktop\LuckCommit\LuckSys\LuckSys\bin\Release\ClosedXML.dll
+C:\Users\Administrator\Desktop\LuckCommit\LuckSys\LuckSys\bin\Release\DocumentFormat.OpenXml.dll
+C:\Users\Administrator\Desktop\LuckCommit\LuckSys\LuckSys\obj\Release\LuckSys.frmPrize.resources
+C:\Users\Administrator\Desktop\LuckCommit\LuckSys\LuckSys\obj\Release\LuckSys.Main.resources
+C:\Users\Administrator\Desktop\LuckCommit\LuckSys\LuckSys\obj\Release\LuckSys.info.resources
+C:\Users\Administrator\Desktop\LuckCommit\LuckSys\LuckSys\obj\Release\LuckSys.Properties.Resources.resources
+C:\Users\Administrator\Desktop\LuckCommit\LuckSys\LuckSys\obj\Release\LuckSys.setting.resources
+C:\Users\Administrator\Desktop\LuckCommit\LuckSys\LuckSys\obj\Release\LuckSys.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\LuckCommit\LuckSys\LuckSys\obj\Release\LuckSys.exe
+C:\Users\Administrator\Desktop\LuckCommit\LuckSys\LuckSys\obj\Release\LuckSys.pdb
+C:\Users\Administrator\Desktop\LuckCommit\LuckSys\LuckSys\obj\Release\LuckSys.frmAddFrize.resources
+C:\Users\Administrator\Desktop\LuckCommit\LuckSys\LuckSys\obj\Release\LuckSys.csprojResolveAssemblyReference.cache
+H:\新建文件夹 (4)\LuckCommit\LuckSys\LuckSys\bin\Release\LuckSys.exe.config
+H:\新建文件夹 (4)\LuckCommit\LuckSys\LuckSys\obj\Release\LuckSys.exe
+H:\新建文件夹 (4)\LuckCommit\LuckSys\LuckSys\obj\Release\LuckSys.pdb
+C:\Users\Administrator\Desktop\新建文件夹 (4)\LuckCommit\LuckSys\LuckSys\bin\Release\LuckSys.exe.config
+C:\Users\Administrator\Desktop\新建文件夹 (4)\LuckCommit\LuckSys\LuckSys\obj\Release\LuckSys.exe
+C:\Users\Administrator\Desktop\新建文件夹 (4)\LuckCommit\LuckSys\LuckSys\obj\Release\LuckSys.pdb
+C:\Users\Administrator\Desktop\新建文件夹 (4)\LuckCommit\LuckSys\LuckSys\bin\Release\LuckSys.exe
+C:\Users\Administrator\Desktop\新建文件夹 (4)\LuckCommit\LuckSys\LuckSys\bin\Release\LuckSys.pdb
+C:\Users\Administrator\Desktop\新建文件夹 (4)\LuckCommit\LuckSys\LuckSys\bin\Release\ClosedXML.dll
+C:\Users\Administrator\Desktop\新建文件夹 (4)\LuckCommit\LuckSys\LuckSys\bin\Release\DocumentFormat.OpenXml.dll
+C:\Users\Administrator\Desktop\新建文件夹 (4)\LuckCommit\LuckSys\LuckSys\obj\Release\LuckSys.frmAddFrize.resources
+C:\Users\Administrator\Desktop\新建文件夹 (4)\LuckCommit\LuckSys\LuckSys\obj\Release\LuckSys.frmPrize.resources
+C:\Users\Administrator\Desktop\新建文件夹 (4)\LuckCommit\LuckSys\LuckSys\obj\Release\LuckSys.Main.resources
+C:\Users\Administrator\Desktop\新建文件夹 (4)\LuckCommit\LuckSys\LuckSys\obj\Release\LuckSys.info.resources
+C:\Users\Administrator\Desktop\新建文件夹 (4)\LuckCommit\LuckSys\LuckSys\obj\Release\LuckSys.Properties.Resources.resources
+C:\Users\Administrator\Desktop\新建文件夹 (4)\LuckCommit\LuckSys\LuckSys\obj\Release\LuckSys.setting.resources
+C:\Users\Administrator\Desktop\新建文件夹 (4)\LuckCommit\LuckSys\LuckSys\obj\Release\LuckSys.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\新建文件夹 (4)\LuckCommit\LuckSys\LuckSys\obj\Release\LuckSys.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\抽奖软件\LuckSys\LuckSys\bin\Release\LuckSys.exe.config
+C:\Users\Administrator\Desktop\抽奖软件\LuckSys\LuckSys\obj\Release\LuckSys.exe
+C:\Users\Administrator\Desktop\抽奖软件\LuckSys\LuckSys\obj\Release\LuckSys.pdb
+C:\Users\Administrator\Desktop\抽奖软件\LuckSys\LuckSys\bin\Release\LuckSys.exe
+C:\Users\Administrator\Desktop\抽奖软件\LuckSys\LuckSys\bin\Release\LuckSys.pdb
+C:\Users\Administrator\Desktop\抽奖软件\LuckSys\LuckSys\bin\Release\ClosedXML.dll
+C:\Users\Administrator\Desktop\抽奖软件\LuckSys\LuckSys\bin\Release\DocumentFormat.OpenXml.dll
+C:\Users\Administrator\Desktop\抽奖软件\LuckSys\LuckSys\obj\Release\LuckSys.frmPrize.resources
+C:\Users\Administrator\Desktop\抽奖软件\LuckSys\LuckSys\obj\Release\LuckSys.Main.resources
+C:\Users\Administrator\Desktop\抽奖软件\LuckSys\LuckSys\obj\Release\LuckSys.info.resources
+C:\Users\Administrator\Desktop\抽奖软件\LuckSys\LuckSys\obj\Release\LuckSys.Properties.Resources.resources
+C:\Users\Administrator\Desktop\抽奖软件\LuckSys\LuckSys\obj\Release\LuckSys.setting.resources
+C:\Users\Administrator\Desktop\抽奖软件\LuckSys\LuckSys\obj\Release\LuckSys.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\抽奖软件\LuckSys\LuckSys\obj\Release\LuckSys.MyPanel.resources
+C:\Users\Administrator\Desktop\抽奖软件\LuckSys\LuckSys\obj\Release\LuckSys.frmProgressBar.resources
+C:\Users\Administrator\Desktop\抽奖软件\LuckSys\LuckSys\obj\Release\LuckSys.frmAddPrize.resources
